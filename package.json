@@ -1,0 +1,30 @@
+{
+  "name": "react-component",
+  "version": "0.0.0",
+  "description": "React for component and browserify",
+  "main": "react.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/benatkin/react-component.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "browserify"
+  ],
+  "author": "Benjamin Atkin <ben@benatkin.com> (http://benatkin.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benatkin/react-component/issues"
+  },
+  "homepage": "https://github.com/benatkin/react-component",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "envify": "1.2.1",
+    "react": "0.10.0",
+    "through2": "^0.4.1"
+  }
+}
