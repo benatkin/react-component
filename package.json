@@ -1,6 +1,6 @@
 {
   "name": "react-component",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "React for component and browserify",
   "main": "react.js",
   "scripts": {
